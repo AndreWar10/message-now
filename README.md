@@ -8,6 +8,8 @@ Projeto funcional e aplicado na concessionária Francauto Volkswagen:
 
 Pensando nisso, desenvolvi uma simples e eficiente aplicação em VBA, no Excel, que automatiza os contatos com os clientes, se livrando da tarefa manual e nos possibilitando dedicar o tempo a outras tarefas.
   
+Link do vídeo que exemplifica um contato por whatsapp: https://www.linkedin.com/posts/andr%C3%A9-guerra-santos-b54b281b6_vba-excel-dev-activity-6884213096198549504-H1dy
+  
   #
   
   - Tela inicial, com o campo de digitação e o botão que starta toda a operação:
